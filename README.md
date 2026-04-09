@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/rishikamedicherla/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rishikaa2204@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <!-- <a href="https://www.instagram.com/yaswant.marisa" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
-    <a href="https://github.com/chaitanya4699"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/disnea?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+    <a href="https://github.com/Rishika22"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/disnea?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 <!-- ## 👨‍💻 About Me -->
